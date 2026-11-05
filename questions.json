@@ -1,0 +1,28 @@
+
+[
+  {
+    "question": "Mis on Eesti pealinn?",
+    "answers": ["Tartu", "Tallinn", "Pärnu"],
+    "correct": 2
+  },
+  {
+    "question": "Mitu päeva on tavalises aastas?",
+    "answers": ["365", "366", "364"],
+    "correct": 1
+  },
+  {
+    "question": "Milline planeet on Päikesele kõige lähemal?",
+    "answers": ["Veenus", "Marss", "Merkuur"],
+    "correct": 3
+  },
+  {
+    "question": "Mitu minutit on kahes tunnis?",
+    "answers": ["100", "120", "90"],
+    "correct": 2
+  },
+  {
+    "question": "Milline neist on programmeerimiskeel?",
+    "answers": ["Python", "HTML", "CSS"],
+    "correct": 1
+  }
+]
